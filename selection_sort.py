@@ -1,4 +1,4 @@
-l = [4, 2, 1, 0, 5, 3, 6]
+l = [2, 4, 1, 0, 5, 3, 6]
 
 def sort_list_naive(l):
   nlen = len(l)
