@@ -5,3 +5,4 @@ if __name__=='__main__':
     n=1000
     print(play_random(n))
     print(play_optimal(n))
+    print("Hello World!") # 수정
