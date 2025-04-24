@@ -6,7 +6,7 @@ class calculator():
   def mul(a, b):
     return a * b
   def div(a, b):
-    return a / b
+    return int(a / b)
 
 print(calculator.add(1, 5))
 print(calculator.sub(7, 4))
